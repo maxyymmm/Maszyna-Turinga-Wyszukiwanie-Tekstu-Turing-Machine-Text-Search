@@ -1,0 +1,1 @@
+# Maszyna-Turinga-Wyszukiwanie-Tekstu-Turing-Machine-Text-Search
